@@ -3,5 +3,5 @@ function kittens(array){
   array = ["Milo", "Otis", "Garfield"]
 }
 
-
+function
 
