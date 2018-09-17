@@ -18,7 +18,7 @@ destructivelyPrependKitten("Bob")
 var kittens = ["Milo", "Otis", "Garfield"]
 
 function destructivelyRemoveLastKitten() {
-  kittens.push()
+  kittens.pop()
 }
 
 
