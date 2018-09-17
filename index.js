@@ -53,3 +53,5 @@ function appendKitten(name) {
       
       return newKittens
   }
+  
+  function remove
