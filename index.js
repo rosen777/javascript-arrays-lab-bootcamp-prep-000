@@ -36,3 +36,7 @@ function appendKitten(name) {
 }
 
   appendKitten("Broom")
+  
+  function prependKitten(name) {
+    
+  }
