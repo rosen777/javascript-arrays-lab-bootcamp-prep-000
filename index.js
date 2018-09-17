@@ -46,4 +46,4 @@ function appendKitten(name) {
   
   prependKitten("Arnold")
   
-  function 
+  function removeLastKitten()
