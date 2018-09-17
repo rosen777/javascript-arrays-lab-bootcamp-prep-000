@@ -46,4 +46,8 @@ function appendKitten(name) {
   
   prependKitten("Arnold")
   
-  function removeLastKitten()
+  var kittens = ["Milo", "Otis", "Garfield"]
+  
+  function removeLastKitten() {
+      var newKittens 
+  }
