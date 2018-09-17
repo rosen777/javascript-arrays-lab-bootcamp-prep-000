@@ -5,6 +5,7 @@ var kittens = ["Milo", "Otis", "Garfield"]
 function destructivelyAppendKitten(name) {
     kittens.push(name) 
 }
+
 destructivelyAppendKitten("Ralph")
 
 var kittens = ["Milo", "Otis", "Garfield"]
@@ -27,7 +28,10 @@ function destructivelyRemoveFirstKitten() {
   kittens.shift()
 }
 
+var kittens = ["Milo", "Otis", "Garfield"]
+
 function appendKitten(name) {
-  
+  newKittens = [name, ...kittens]
 }
-}
+
+  appendKitten("Broom")
