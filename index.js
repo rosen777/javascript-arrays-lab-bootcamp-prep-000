@@ -54,6 +54,8 @@ function appendKitten(name) {
       return newKittens
   }
   
+  var kittens = ["Milo", "Otis", "Garfield"]
+  
   function removeFirstKitten() {
     var newKittens = kittens.splice(1)
     
